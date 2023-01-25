@@ -1,3 +1,3 @@
 # CSCI 172 Project - Computer Graphics 
 
-Projects done for my semester while enrolled for Computer Graphics at Fresno State. These are uploaded for portfolio purposes and do note that copying of anything goes against your institutions honor code.
+Assignments/Projects completed throughtout the duration of this respective course for my semesters enrolled at Fresno State. These files are uploaded for personal and portfolio purposes. Anything here is not to be copied in any way by other students as it goes against your institutions honor code and could result in academic dishonesty.
